@@ -41,6 +41,8 @@ https://utkarshjhansi11.medium.com/how-to-build-self-driving-car-using-end-to-en
 ## Model In Action :
 
 
-https://user-images.githubusercontent.com/61959483/128502148-6892bd32-5380-46e5-a6d3-c7289b35d8a0.mp4
+https://user-images.githubusercontent.com/61959483/128502497-2d224849-5b79-4a0c-bf9e-96559ebec49f.mp4
+
+
 
 
