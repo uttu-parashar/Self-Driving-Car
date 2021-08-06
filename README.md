@@ -1,11 +1,13 @@
-#                                                                   ** Self-Driving-Car ** 
+#                                                                    ** Self-Driving-Car ** 
 
 
-In This project I build a self-driving-car system using Deep learning.
-I have written a detailed blog abut this project. Please visit blog to see the Full Detailes.
+#### In This project I build a self-driving-car system using Deep learning.
+*I have written a detailed blog abut this project. Please visit blog to see the Full Detailes.
+https://utkarshjhansi11.medium.com/how-to-build-self-driving-car-using-end-to-end-deep-learning-a36d14667570
 
-    https://utkarshjhansi11.medium.com/how-to-build-self-driving-car-using-end-to-end-deep-learning-a36d14667570
  
     
-## MOdel in Action : 
-![How_to_Build_Self-Driving-Car_Using_End-to-End_Deep_Learning_SparkVideo](https://user-images.githubusercontent.com/61959483/128496407-fefa4a8d-5d24-4777-9ead-d8f5b2131c38.gif)
+## ** Introduction of the dataset i used : ** --
+  * Sullychen Published 2 datasets one in 2017 and the next in 2018. We will use the 2018’s Dataset. Now let’s see what type of Data we have :
+  * we will use Dataset Released By Sullychen. You can go to the actual Github account by clicking the link bellow :
+  * https://github.com/SullyChen/driving-datasets
