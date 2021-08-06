@@ -48,6 +48,7 @@ https://utkarshjhansi11.medium.com/how-to-build-self-driving-car-using-end-to-en
 
 ## ** Training Result :** --
 
+![Screenshot (31)](https://user-images.githubusercontent.com/61959483/128502004-02eff30b-b572-41f5-9983-8e5b49189670.png)
 
 
 ## Model In Action :
