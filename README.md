@@ -36,4 +36,11 @@ https://utkarshjhansi11.medium.com/how-to-build-self-driving-car-using-end-to-en
 
 
 
+## ** Model Architecture I used From NVidea Research Paper :** --
+
+![5](https://user-images.githubusercontent.com/61959483/128498488-5fea5c17-d9e3-4962-ba9f-96d090769fc0.png)
+
+
+
+
 
