@@ -1,3 +1,7 @@
+
+
+Uploading how-to-build-self-driving-car-using-end-to-end-deep-learnin_kO2Uao1H_RgTy.mp4…
+
 #                                                                    **                 Self-Driving-Car ** 
 
 
@@ -44,7 +48,6 @@ https://utkarshjhansi11.medium.com/how-to-build-self-driving-car-using-end-to-en
 
 ## ** Training Result :** --
 
-![Screenshot (31)](https://user-images.githubusercontent.com/61959483/128498958-7a9bd133-f413-4d2a-baeb-0ea7b781422f.png)
 
 
 ## Model In Action :
