@@ -1,8 +1,5 @@
 
-
-https://user-images.githubusercontent.com/61959483/128502148-6892bd32-5380-46e5-a6d3-c7289b35d8a0.mp4
-
-#                                                                    **                 Self-Driving-Car ** 
+#                                                                    **  Self-Driving-Car ** 
 
 
 #### OBJECTIVE : In This project I build a self-driving-car system using Deep learning.
@@ -44,6 +41,6 @@ https://utkarshjhansi11.medium.com/how-to-build-self-driving-car-using-end-to-en
 ## Model In Action :
 
 
-Uploading how-to-build-self-driving-car-using-end-to-end-deep-learnin_kO2Uao1H_RgTy.mp4…
+https://user-images.githubusercontent.com/61959483/128502148-6892bd32-5380-46e5-a6d3-c7289b35d8a0.mp4
 
 
